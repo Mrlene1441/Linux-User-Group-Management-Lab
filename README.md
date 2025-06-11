@@ -1,6 +1,6 @@
 # Linux User & Group Management Lab
 
-This project simulates a real-world system administration task using Linux. It focuses on creating users, assigning them to groups, managing file permissions, and restricting access to sensitive directories — all within a virtualized Linux environment.
+This project simulates a real-world system administration task using Linux. It focuses on creating users, assigning them to groups, managing file permissions, and restricting access to sensitive directories, all within a virtualized Linux environment.
 
 ---
 
@@ -12,7 +12,7 @@ To practice and demonstrate Linux system administration skills, specifically use
 
 ## Tools Used
 
-- Ubuntu 22.04 LTS (VirtualBox)
+- Ubuntu (VirtualBox)
 - Bash Shell / Terminal
 - User management (`useradd`, `usermod`)
 - Permission tools (`chmod`, `chown`, `groups`)
